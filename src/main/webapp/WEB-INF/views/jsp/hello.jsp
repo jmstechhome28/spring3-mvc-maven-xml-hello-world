@@ -41,21 +41,21 @@
  
   <div class="row">
 	<div class="col-md-4">
-		<h2>New Course</h2>
+		<h2>New Course1</h2>
 		<p>Kubernetes</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
 	<div class="col-md-4">
-		<h2>New Course</h2>
+		<h2>New Course1</h2>
 		<p>Jenkins</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
 	<div class="col-md-4">
-		<h2>New Course</h2>
+		<h2>New Course1</h2>
 		<p>Docker</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
